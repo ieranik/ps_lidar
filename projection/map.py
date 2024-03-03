@@ -1,5 +1,6 @@
 import numpy as np
 
+
 # From Github https://github.com/balcilar/DenseDepthMap
 def dense_map(Pts, n, m, grid):
     ng = 2 * grid + 1
